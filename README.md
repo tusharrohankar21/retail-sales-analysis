@@ -30,3 +30,8 @@ The dashboard includes:
 - Writing SQL queries using GROUP BY, aggregate functions, and date functions
 - Connecting Power BI to a MySQL database
 - Building interactive visualizations and KPI dashboards
+
+
+
+## 📈 Dashboard Screenshot
+![Retail Sales Dashboard](Screenshot%202026-08-28%20120516.png)
